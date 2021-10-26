@@ -20,7 +20,18 @@ body {
   text-align: center;
   cursor: pointer;
 }
-
+.button1 {
+  margin: 14px;
+  background-color: #e91515;
+  border-radius: 5px;
+  font-size: 24px;
+  width: 180px;
+  height: 80px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
 .cart {
   margin: 25px 100px;
   float: right;
